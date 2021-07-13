@@ -1,10 +1,7 @@
-## Welcome to GitHub Pages
+## 个人简介
+数据科学研究生有数据挖掘和机器学习经验，现任职算法工程师
 
-You can use the [editor on GitHub](https://github.com/niubo1211/niubo1211.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 教育经历
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
